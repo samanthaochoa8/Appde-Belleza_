@@ -96,6 +96,9 @@ Mi app de belleza ofrece un diagnóstico personalizado para recomendar productos
 - Campos principales: id_cita, fecha, hora, id_cliente, id_servicio.
 
 # SCRIPT DE MODELO FISICO
+El script crea la base de datos app_belleza y las tablas CLIENTE, PRODUCTO, SERVICIO y CITA, definiendo sus campos, claves primarias y relaciones mediante claves foráneas.
+Permite registrar clientes, productos, servicios y citas, asegurando integridad de los datos y facilitando la gestión eficiente de la información en la aplicación.
+
 <img width="1292" height="488" alt="Captura de pantalla 2025-09-09 190836" src="https://github.com/user-attachments/assets/e563c3b0-cc23-4758-8a72-6a73061ab176" />
 <img width="987" height="467" alt="Captura de pantalla 2025-09-09 191338" src="https://github.com/user-attachments/assets/ee932b89-5988-4219-b963-482f1c9a7fab" />
 
