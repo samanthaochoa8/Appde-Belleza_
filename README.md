@@ -20,7 +20,7 @@ El propósito de mi app de belleza es ofrecer una experiencia personalizada para
 El sector de la belleza y el peinado enfrenta desafíos relacionados con la personalización y la accesibilidad. Los usuarios a menudo pierden tiempo buscando estilos adecuados o gestionando citas de manera ineficiente. Además, los estilistas enfrentan problemas al organizar su agenda y promocionar sus servicios. Esta app resuelve estos problemas mediante una plataforma centralizada, intuitiva y accesible desde cualquier dispositivo.
 
 # ANALISIS DE REQUERIMIENTO
-Funcionalidades principales:
+**Funcionalidades principales:**
 
 - Gestión de clientes
 
@@ -94,4 +94,9 @@ Mi app de belleza ofrece un diagnóstico personalizado para recomendar productos
 - Relevancia: Permite organizar la agenda de los estilistas y evitar conflictos de horario.
 
 - Campos principales: id_cita, fecha, hora, id_cliente, id_servicio.
+
+# SCRIPT DE MODELO FISICO
+<img width="1292" height="488" alt="Captura de pantalla 2025-09-09 190836" src="https://github.com/user-attachments/assets/e563c3b0-cc23-4758-8a72-6a73061ab176" />
+<img width="987" height="467" alt="Captura de pantalla 2025-09-09 191338" src="https://github.com/user-attachments/assets/ee932b89-5988-4219-b963-482f1c9a7fab" />
+
 
