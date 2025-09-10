@@ -61,3 +61,37 @@ Funcionalidades principales:
 # FUNCIONALIDAD CLAVE
 Mi app de belleza ofrece un diagnóstico personalizado para recomendar productos y rutinas adaptadas a cada usuario. Permite agendar citas con expertos, probar looks con realidad aumentada y comprar productos en una tienda integrada. Además, brinda un espacio para compartir experiencias y seguir el progreso en el cuidado personal.
 
+# DESCRIPCIÓN DE TABLAS PRINCIPALES
+
+**CLIENTE**
+
+- Propósito: Almacenar información personal de los usuarios que usan los servicios del salón.
+
+- Relevancia: Permite gestionar citas, llevar un historial de clientes y ofrecer servicios personalizados.
+
+- Campos principales: id_cliente, nombre, apellido, telefono, correo.
+
+**PRODUCTO**
+
+- Propósito: Registrar los productos disponibles en la tienda o usados en los servicios (shampoos, cremas, tintes).
+
+- Relevancia: Facilita el control de inventario, precios y disponibilidad de productos para los clientes y servicios.
+
+- Campos principales: id_producto, nombre, precio, stock.
+
+**SERVICIO**
+
+- Propósito: Guardar los servicios que ofrece el salón (corte de cabello, manicure, maquillaje).
+
+- Relevancia: Relaciona los servicios con citas y permite calcular costos y generar reportes.
+
+- Campos principales: id_servicio, nombre, precio, descripcion.
+
+**CITA**
+
+- Propósito: Registrar las reservas de los clientes para un servicio en una fecha y hora específicas.
+
+- Relevancia: Permite organizar la agenda de los estilistas y evitar conflictos de horario.
+
+- Campos principales: id_cita, fecha, hora, id_cliente, id_servicio.
+
