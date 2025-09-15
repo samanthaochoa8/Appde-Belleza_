@@ -1,5 +1,6 @@
 # Appde-Belleza_
 Es una plataforma pensada para personas que desean mejorar su estética personal de manera fácil, rápida y adaptada a sus necesidades. La aplicación permite que los usuarios accedan a recomendaciones de productos, rutinas de cuidado personal y tips de belleza personalizados según su tipo de piel, cabello y preferencias.
+
  ![belleza](https://zonales.quito.gob.ec/wp-content/uploads/maquillaje-y-maquillaje-profesional-1-scaled-1.jpg)
 
  # INTRODUCCIÓN
