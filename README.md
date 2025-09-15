@@ -63,7 +63,7 @@ El sector de la belleza y el peinado enfrenta desafíos relacionados con la pers
 - Consultar citas por fecha.
 
 # FUNCIONALIDAD CLAVE
-Mi app de belleza ofrece un diagnóstico personalizado para recomendar productos y rutinas adaptadas a cada usuario. Permite agendar citas con expertos, probar looks con realidad aumentada y comprar productos en una tienda integrada. Además, brinda un espacio para compartir experiencias y seguir el progreso en el cuidado personal.
+Mi app de belleza ofrece un diagnóstico personalizado para recomendar productos y rutinas adaptadas a cada usuario. Permite agendar citas con expertos, probar looks con realidad aumentada y comprar productos en una tienda integrada. Además, brinda un espacio para compartir experiencias y seguir el progreso en el cuidado personal, impulsando así una experiencia completa que combina innovación, comodidad y comunidad.
 
 # DESCRIPCIÓN DE TABLAS PRINCIPALES
 
