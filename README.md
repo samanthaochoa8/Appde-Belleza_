@@ -65,6 +65,8 @@ El sector de la belleza y el peinado enfrenta desafíos relacionados con la pers
 # FUNCIONALIDAD CLAVE
 Mi app de belleza ofrece un diagnóstico personalizado para recomendar productos y rutinas adaptadas a cada usuario. Permite agendar citas con expertos, probar looks con realidad aumentada y comprar productos en una tienda integrada. Además, brinda un espacio para compartir experiencias y seguir el progreso en el cuidado personal, impulsando así una experiencia completa que combina innovación, comodidad y comunidad.
 
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/c62e8f23-ff2d-472a-8a6e-d4d956bd24d1" />
+
 # DESCRIPCIÓN DE TABLAS PRINCIPALES
 
 **CLIENTE**
