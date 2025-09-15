@@ -65,35 +65,35 @@ Mi app de belleza ofrece un diagnóstico personalizado para recomendar productos
 
 **CLIENTE**
 
-- Propósito: Almacenar información personal de los usuarios que usan los servicios del salón.
+- **Propósito:** Almacenar información personal de los usuarios que usan los servicios del salón.
 
-- Relevancia: Permite gestionar citas, llevar un historial de clientes y ofrecer servicios personalizados.
+- **Relevancia:** Permite gestionar citas, llevar un historial de clientes y ofrecer servicios personalizados.
 
-- Campos principales: id_cliente, nombre, apellido, telefono, correo.
+- **Campos principales:** id_cliente, nombre, apellido, telefono, correo.
 
 **PRODUCTO**
 
-- Propósito: Registrar los productos disponibles en la tienda o usados en los servicios (shampoos, cremas, tintes).
+- **Propósito:** Registrar los productos disponibles en la tienda o usados en los servicios (shampoos, cremas, tintes).
 
-- Relevancia: Facilita el control de inventario, precios y disponibilidad de productos para los clientes y servicios.
+- **Relevancia:** Facilita el control de inventario, precios y disponibilidad de productos para los clientes y servicios.
 
-- Campos principales: id_producto, nombre, precio, stock.
+- **Campos principales:** id_producto, nombre, precio, stock.
 
 **SERVICIO**
 
-- Propósito: Guardar los servicios que ofrece el salón (corte de cabello, manicure, maquillaje).
+- **Propósito:** Guardar los servicios que ofrece el salón (corte de cabello, manicure, maquillaje).
 
-- Relevancia: Relaciona los servicios con citas y permite calcular costos y generar reportes.
+- **Relevancia:** Relaciona los servicios con citas y permite calcular costos y generar reportes.
 
-- Campos principales: id_servicio, nombre, precio, descripcion.
+- **Campos principales:** id_servicio, nombre, precio, descripcion.
 
 **CITA**
 
-- Propósito: Registrar las reservas de los clientes para un servicio en una fecha y hora específicas.
+- **Propósito:** Registrar las reservas de los clientes para un servicio en una fecha y hora específicas.
 
-- Relevancia: Permite organizar la agenda de los estilistas y evitar conflictos de horario.
+- **Relevancia:** Permite organizar la agenda de los estilistas y evitar conflictos de horario.
 
-- Campos principales: id_cita, fecha, hora, id_cliente, id_servicio.
+- **Campos principales:** id_cita, fecha, hora, id_cliente, id_servicio.
 
 # SCRIPT DE MODELO FISICO
 El script crea la base de datos app_belleza y las tablas CLIENTE, PRODUCTO, SERVICIO y CITA, definiendo sus campos, claves primarias y relaciones mediante claves foráneas.
