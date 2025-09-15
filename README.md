@@ -7,7 +7,7 @@ Es una plataforma pensada para personas que desean mejorar su estética personal
 Bienvenidos a nuestra App-de-Belleza estamos encantados de presentarte una herramienta creada especialmente para realzar tu estilo y cuidar de tu imagen personal. En nuestra app, encontrarás una amplia galería de peinados y maquillajes, tutoriales prácticos para aprender nuevas técnicas, y tengas la opción de agendar citas con estilistas de una manera rápida y sencilla.
 
 # PROPÓSITO
-El propósito de mi app de belleza es ofrecer una experiencia personalizada para el cuidado y mejora de la apariencia, brindando recomendaciones, productos y servicios adaptados a las necesidades de cada usuario.
+El propósito de mi app de belleza es ofrecer una experiencia personalizada para el cuidado y mejora de la apariencia, brindando recomendaciones, productos y servicios adaptados a las necesidades de cada usuario. Además, busca empoderar a las personas para que se sientan seguras y satisfechas con su imagen, promoviendo hábitos de autocuidado, bienestar y confianza, todo desde una plataforma accesible e innovadora
 
 # OBJETIVOS
 **Objetivos de mi app de belleza:**  
