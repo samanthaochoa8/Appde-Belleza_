@@ -112,4 +112,22 @@ Permite registrar clientes, productos, servicios y citas, asegurando integridad 
 <img width="1292" height="488" alt="Captura de pantalla 2025-09-09 190836" src="https://github.com/user-attachments/assets/e563c3b0-cc23-4758-8a72-6a73061ab176" />
 <img width="987" height="467" alt="Captura de pantalla 2025-09-09 191338" src="https://github.com/user-attachments/assets/ee932b89-5988-4219-b963-482f1c9a7fab" />
 
+# APLICACIÓN
+- **Diseño de interfaz:** Implementación de Formularios para la interacción gráfica con el usuario. 
+
+- **Validaciones:** Manejo de entradas incorrectas o datos incompletos en formularios. 
+
+## Acceso a datos
+- **Conexión a la base de datos MySQL.**  
+- **Implementación de operaciones CRUD (Create, Read, Update, Delete).**
+
+## Funcionalidades clave
+- **Visualización de datos de las tablas.**  
+- **Búsqueda específica en base a criterios establecidos.**  
+- **Registro y edición de datos con validaciones adecuadas.**  
+- **Eliminación segura de registros.**
+
+<img width="1904" height="779" alt="Captura de pantalla 2025-09-15 185942" src="https://github.com/user-attachments/assets/82cf0397-83ea-4e92-b85c-396c6bee4496" />
+
+
 
